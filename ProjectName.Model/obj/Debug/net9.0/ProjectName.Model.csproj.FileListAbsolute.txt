@@ -1,0 +1,11 @@
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Model\bin\Debug\net9.0\ProjectName.Model.deps.json
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Model\bin\Debug\net9.0\ProjectName.Model.dll
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Model\bin\Debug\net9.0\ProjectName.Model.pdb
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Model\obj\Debug\net9.0\ProjectName.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Model\obj\Debug\net9.0\ProjectName.Model.AssemblyInfoInputs.cache
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Model\obj\Debug\net9.0\ProjectName.Model.AssemblyInfo.cs
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Model\obj\Debug\net9.0\ProjectName.Model.csproj.CoreCompileInputs.cache
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Model\obj\Debug\net9.0\ProjectName.Model.dll
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Model\obj\Debug\net9.0\refint\ProjectName.Model.dll
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Model\obj\Debug\net9.0\ProjectName.Model.pdb
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Model\obj\Debug\net9.0\ref\ProjectName.Model.dll

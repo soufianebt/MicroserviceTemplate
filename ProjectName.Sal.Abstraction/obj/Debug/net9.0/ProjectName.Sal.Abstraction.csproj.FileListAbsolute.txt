@@ -1,0 +1,11 @@
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Sal.Abstraction\bin\Debug\net9.0\ProjectName.Sal.Abstraction.deps.json
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Sal.Abstraction\bin\Debug\net9.0\ProjectName.Sal.Abstraction.dll
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Sal.Abstraction\bin\Debug\net9.0\ProjectName.Sal.Abstraction.pdb
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Sal.Abstraction\obj\Debug\net9.0\ProjectName.Sal.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Sal.Abstraction\obj\Debug\net9.0\ProjectName.Sal.Abstraction.AssemblyInfoInputs.cache
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Sal.Abstraction\obj\Debug\net9.0\ProjectName.Sal.Abstraction.AssemblyInfo.cs
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Sal.Abstraction\obj\Debug\net9.0\ProjectName.Sal.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Sal.Abstraction\obj\Debug\net9.0\ProjectName.Sal.Abstraction.dll
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Sal.Abstraction\obj\Debug\net9.0\refint\ProjectName.Sal.Abstraction.dll
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Sal.Abstraction\obj\Debug\net9.0\ProjectName.Sal.Abstraction.pdb
+C:\Users\soufi\source\repos\ProjectName\ProjectName.Sal.Abstraction\obj\Debug\net9.0\ref\ProjectName.Sal.Abstraction.dll

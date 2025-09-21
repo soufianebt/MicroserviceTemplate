@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soufi\\source\\repos\\ProjectName\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Data\\Migrations\\20250921023938_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectName.Data\\Migrations\\20250921023938_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C59533-24A1-74F7-B1E0-3F2BA5D6EFC4}|ProjectName.Data\\ProjectName.Data.csproj|c:\\users\\soufi\\source\\repos\\projectname\\projectname.data\\projectnamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C59533-24A1-74F7-B1E0-3F2BA5D6EFC4}|ProjectName.Data\\ProjectName.Data.csproj|solutionrelative:projectname.data\\projectnamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5530BE9F-FE72-E671-00CF-BCD20E01136B}|ProjectName.Api\\ProjectName.Api.csproj|c:\\users\\soufi\\source\\repos\\projectname\\projectname.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5530BE9F-FE72-E671-00CF-BCD20E01136B}|ProjectName.Api\\ProjectName.Api.csproj|solutionrelative:projectname.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17151D9E-0561-09A4-914B-2AFBDF814030}|ProjectName.Model\\ProjectName.Model.csproj|c:\\users\\soufi\\source\\repos\\projectname\\projectname.model\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17151D9E-0561-09A4-914B-2AFBDF814030}|ProjectName.Model\\ProjectName.Model.csproj|solutionrelative:projectname.model\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5530BE9F-FE72-E671-00CF-BCD20E01136B}|ProjectName.Api\\ProjectName.Api.csproj|c:\\users\\soufi\\source\\repos\\projectname\\projectname.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5530BE9F-FE72-E671-00CF-BCD20E01136B}|ProjectName.Api\\ProjectName.Api.csproj|solutionrelative:projectname.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17151D9E-0561-09A4-914B-2AFBDF814030}|ProjectName.Model\\ProjectName.Model.csproj|c:\\users\\soufi\\source\\repos\\projectname\\projectname.model\\projectname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17151D9E-0561-09A4-914B-2AFBDF814030}|ProjectName.Model\\ProjectName.Model.csproj|solutionrelative:projectname.model\\projectname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5530BE9F-FE72-E671-00CF-BCD20E01136B}|ProjectName.Api\\ProjectName.Api.csproj|c:\\users\\soufi\\source\\repos\\projectname\\projectname.api\\registermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5530BE9F-FE72-E671-00CF-BCD20E01136B}|ProjectName.Api\\ProjectName.Api.csproj|solutionrelative:projectname.api\\registermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5530BE9F-FE72-E671-00CF-BCD20E01136B}|ProjectName.Api\\ProjectName.Api.csproj|c:\\users\\soufi\\source\\repos\\projectname\\projectname.api\\controllers\\projectnamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5530BE9F-FE72-E671-00CF-BCD20E01136B}|ProjectName.Api\\ProjectName.Api.csproj|solutionrelative:projectname.api\\controllers\\projectnamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA0F246-B01D-F7C9-564C-3C23E24FBE65}|ProjectName.Dal.Imp\\ProjectName.Dal.Imp.csproj|c:\\users\\soufi\\source\\repos\\projectname\\projectname.dal.imp\\projectnamedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA0F246-B01D-F7C9-564C-3C23E24FBE65}|ProjectName.Dal.Imp\\ProjectName.Dal.Imp.csproj|solutionrelative:projectname.dal.imp\\projectnamedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232D86BC-1001-1850-3BDF-6D76207E2FD7}|ProjectName.Service.Imp\\ProjectName.Service.Imp.csproj|c:\\users\\soufi\\source\\repos\\projectname\\projectname.service.imp\\projectnameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232D86BC-1001-1850-3BDF-6D76207E2FD7}|ProjectName.Service.Imp\\ProjectName.Service.Imp.csproj|solutionrelative:projectname.service.imp\\projectnameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A7AC9C-148C-B7E5-3DC5-E07CE1DE4841}|ProjectName.Service.Abstraction\\ProjectName.Service.Abstraction.csproj|c:\\users\\soufi\\source\\repos\\projectname\\projectname.service.abstraction\\iprojectnameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A7AC9C-148C-B7E5-3DC5-E07CE1DE4841}|ProjectName.Service.Abstraction\\ProjectName.Service.Abstraction.csproj|solutionrelative:projectname.service.abstraction\\iprojectnameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250921023938_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Data\\Migrations\\20250921023938_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ProjectName.Data\\Migrations\\20250921023938_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Data\\Migrations\\20250921023938_InitialCreate.cs",
+              "RelativeToolTip": "ProjectName.Data\\Migrations\\20250921023938_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T02:39:38.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectName.cs",
+              "DocumentMoniker": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Model\\ProjectName.cs",
+              "RelativeDocumentMoniker": "ProjectName.Model\\ProjectName.cs",
+              "ToolTip": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Model\\ProjectName.cs",
+              "RelativeToolTip": "ProjectName.Model\\ProjectName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T02:28:34.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectName.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Api\\appsettings.json",
+              "RelativeToolTip": "ProjectName.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-21T02:28:11.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Model\\AppSettings.cs",
+              "RelativeDocumentMoniker": "ProjectName.Model\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Model\\AppSettings.cs",
+              "RelativeToolTip": "ProjectName.Model\\AppSettings.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T02:24:39.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectNameContext.cs",
+              "DocumentMoniker": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Data\\ProjectNameContext.cs",
+              "RelativeDocumentMoniker": "ProjectName.Data\\ProjectNameContext.cs",
+              "ToolTip": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Data\\ProjectNameContext.cs",
+              "RelativeToolTip": "ProjectName.Data\\ProjectNameContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T02:16:30.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterModule.cs",
+              "DocumentMoniker": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Api\\RegisterModule.cs",
+              "RelativeDocumentMoniker": "ProjectName.Api\\RegisterModule.cs",
+              "ToolTip": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Api\\RegisterModule.cs",
+              "RelativeToolTip": "ProjectName.Api\\RegisterModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T02:03:51.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectName.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Api\\Program.cs",
+              "RelativeToolTip": "ProjectName.Api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T02:01:44.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectNameDal.cs",
+              "DocumentMoniker": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Dal.Imp\\ProjectNameDal.cs",
+              "RelativeDocumentMoniker": "ProjectName.Dal.Imp\\ProjectNameDal.cs",
+              "ToolTip": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Dal.Imp\\ProjectNameDal.cs",
+              "RelativeToolTip": "ProjectName.Dal.Imp\\ProjectNameDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T02:16:55.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectNameController.cs",
+              "DocumentMoniker": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Api\\Controllers\\ProjectNameController.cs",
+              "RelativeDocumentMoniker": "ProjectName.Api\\Controllers\\ProjectNameController.cs",
+              "ToolTip": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Api\\Controllers\\ProjectNameController.cs",
+              "RelativeToolTip": "ProjectName.Api\\Controllers\\ProjectNameController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T01:56:33.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProjectNameService.cs",
+              "DocumentMoniker": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Service.Abstraction\\IProjectNameService.cs",
+              "RelativeDocumentMoniker": "ProjectName.Service.Abstraction\\IProjectNameService.cs",
+              "ToolTip": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Service.Abstraction\\IProjectNameService.cs",
+              "RelativeToolTip": "ProjectName.Service.Abstraction\\IProjectNameService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T02:18:38.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectNameService.cs",
+              "DocumentMoniker": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Service.Imp\\ProjectNameService.cs",
+              "RelativeDocumentMoniker": "ProjectName.Service.Imp\\ProjectNameService.cs",
+              "ToolTip": "C:\\Users\\soufi\\source\\repos\\ProjectName\\ProjectName.Service.Imp\\ProjectNameService.cs",
+              "RelativeToolTip": "ProjectName.Service.Imp\\ProjectNameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T01:55:23.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

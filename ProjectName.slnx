@@ -1,0 +1,19 @@
+<Solution>
+  <Folder Name="/Data/">
+    <Project Path="ProjectName.Data/ProjectName.Data.csproj" />
+  </Folder>
+  <Folder Name="/Data/Dal/">
+    <Project Path="ProjectName.Dal.Abstraction/ProjectName.Dal.Abstraction.csproj" />
+    <Project Path="ProjectName.Dal.Imp/ProjectName.Dal.Imp.csproj" />
+  </Folder>
+  <Folder Name="/Data/Sal/">
+    <Project Path="ProjectName.Sal.Abstraction/ProjectName.Sal.Abstraction.csproj" />
+    <Project Path="ProjectName.Sal.Imp/ProjectName.Sal.Imp.csproj" />
+  </Folder>
+  <Folder Name="/Services/">
+    <Project Path="ProjectName.Service.Abstraction/ProjectName.Service.Abstraction.csproj" />
+    <Project Path="ProjectName.Service.Imp/ProjectName.Service.Imp.csproj" />
+  </Folder>
+  <Project Path="ProjectName.Api/ProjectName.Api.csproj" />
+  <Project Path="ProjectName.Model/ProjectName.Model.csproj" />
+</Solution>
