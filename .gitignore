@@ -11,7 +11,14 @@ out/
 
 # Visual Studio Code
 .vscode/
+# Debug folders for different .NET versions
+Debug/
+Debug/net*/
+Release/
+Release/net*/
 
+# Visual Studio folder
+.vs/
 # Rider
 .idea/
 *.sln.iml
