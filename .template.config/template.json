@@ -15,5 +15,17 @@
     "type": "solution"
   },
   "sourceName": "ProjectName",
-  "description": "This is a micro service template"
+  "description": "This is a micro service template",
+  "sources": [
+    {
+      "source": ".",
+      "target": ".",
+      "exclude": [
+        "**/[Bb]in/**",
+        "**/[Bb]uild/**",
+        "**/[Oo]bj/**",
+        ".template.config/**"
+      ]
+    }
+  ]
 }
