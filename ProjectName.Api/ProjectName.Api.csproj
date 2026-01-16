@@ -16,13 +16,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ProjectName.Dal.Abstraction\ProjectName.Dal.Abstraction.csproj" />
-    <ProjectReference Include="..\ProjectName.Dal.Imp\ProjectName.Dal.Imp.csproj" />
-    <ProjectReference Include="..\ProjectName.Data\ProjectName.Data.csproj" />
-    <ProjectReference Include="..\ProjectName.Sal.Abstraction\ProjectName.Sal.Abstraction.csproj" />
-    <ProjectReference Include="..\ProjectName.Sal.Imp\ProjectName.Sal.Imp.csproj" />
-    <ProjectReference Include="..\ProjectName.Service.Abstraction\ProjectName.Service.Abstraction.csproj" />
-    <ProjectReference Include="..\ProjectName.Service.Imp\ProjectName.Service.Imp.csproj" />
+    <ProjectReference Include="..\Data\Dal\ProjectName.Dal.Abstraction\ProjectName.Dal.Abstraction.csproj" />
+    <ProjectReference Include="..\Data\Dal\ProjectName.Dal.Imp\ProjectName.Dal.Imp.csproj" />
+    <ProjectReference Include="..\Data\Sal\ProjectName.Sal.Abstraction\ProjectName.Sal.Abstraction.csproj" />
+    <ProjectReference Include="..\Data\Sal\ProjectName.Sal.Imp\ProjectName.Sal.Imp.csproj" />
+    <ProjectReference Include="..\Service\ProjectName.Service.Abstraction\ProjectName.Service.Abstraction.csproj" />
+    <ProjectReference Include="..\Service\ProjectName.Service.Imp\ProjectName.Service.Imp.csproj" />
   </ItemGroup>
 
 </Project>
